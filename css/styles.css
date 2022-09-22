@@ -72,6 +72,7 @@ body {
   grid-column: 7/10;
   grid-row: 3/7;
   color: antiquewhite;
+  font-size: 1.8em;
 }
 
 .hero h3 {
